@@ -1,0 +1,40 @@
+h1{
+    color: orange;
+
+    text-align: center;
+    font-size: 25px;
+}
+
+a{
+    padding-left: 500px;
+}
+.BMW{
+    border: 5px solid black;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    height: 100px;
+}
+.BMW5{
+    border:  5px solid black;
+    height: 100px;
+    weight: 100px;
+    position: center;
+}
+.BMW6{
+    border:  5px solid black;
+    height: 100px;
+    weight:100px;
+    position: center;
+}
+.BMW7{
+    border: 5px solid black;
+    height: 100px;
+    weight: 100px;
+    position: center;
+}
+.BMW-X{
+    border: 5px solid black;
+    height: 100px;
+    weight: 100px;
+    position: center;
+}
